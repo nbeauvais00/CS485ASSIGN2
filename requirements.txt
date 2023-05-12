@@ -1,0 +1,11 @@
+numpy
+pytest
+librosa
+matplotlib
+soundfile
+seaborn
+mirdata
+mir_eval
+pandas
+pytest >= 6.0.0
+libfmp
